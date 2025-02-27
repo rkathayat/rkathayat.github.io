@@ -111,7 +111,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("Images/bg.jpg") no-repeat;
+  background: url("Images/bg.jpg") alt="bg-image" no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
